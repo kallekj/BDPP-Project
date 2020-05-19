@@ -34,8 +34,9 @@ Felix Gräßer, Surya Kallumadi, Hagen Malberg, and Sebastian Zaunseder. 2018. A
 
 ## Dependencies
 These libraries are available via pip:
-    * wordcloud
-    * nltk
-    * numpy
-    * pandas
-    * matplotlib
+
+* wordcloud
+* nltk
+* numpy
+* pandas
+* matplotlib

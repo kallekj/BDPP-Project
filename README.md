@@ -3,6 +3,8 @@ Term frequency analysis of Drug Review Dataset with Apache Spark, as part of the
 
 __NOTE__ There's a wierd bug running the Lemmatizing-cell, you have to execute this cell __3__ times.
 
+Read my paper about this projekt [here](https://github.com/kallekj/BDPP-Project/blob/master/Report/BDPP_Report_kardje16.pdf).
+
 ## Dataset
 Dataset acquired from [UCI Machine Learing Repository](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
